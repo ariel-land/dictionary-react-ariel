@@ -7,3 +7,12 @@ header {
   font-size: 40px;
   letter-spacing: 6px;
 }
+
+footer {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin: 5px;
+
+  font-size: 12px;
+}
