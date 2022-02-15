@@ -9,6 +9,8 @@ function App() {
         <main>
           <Dictionary />
         </main>
+        <br />
+        <br />
         <footer className="App-footer">
           <a
             href="https://github.com/ariel-land/dictionary-react-ariel"
