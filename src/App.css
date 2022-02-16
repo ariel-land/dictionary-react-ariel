@@ -1,4 +1,12 @@
-header {
+body {
+  background: #fff7fb;
+}
+
+a {
+  color: #c28536;
+}
+
+.App-header {
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -8,7 +16,7 @@ header {
   letter-spacing: 6px;
 }
 
-footer {
+.App-footer {
   display: block;
   margin: 20px 0;
   text-align: center;

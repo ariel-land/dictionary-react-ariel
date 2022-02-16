@@ -9,3 +9,25 @@
   border-radius: 6px;
   width: 100%;
 }
+
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0px 10px 10px rgb(0 0 0 / 10%);
+  margin: 20px 0;
+}
+
+.Dictionary input {
+  width: 100%;
+  border-radius: 6px;
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  color: rgb(49, 41, 54);
+}
+
+.Dictionary .hint {
+  font-size: 11px;
+  color: rgb(53, 47, 56);
+  margin-top: 5px;
+}
