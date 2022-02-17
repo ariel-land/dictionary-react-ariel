@@ -4,6 +4,10 @@
   line-height: 1.5;
 }
 
-a {
-  color: #c28536;
+.Results section {
+  background: white;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0px 10px 20px rgb(0 0 0 / 10%);
+  margin: 20px 0;
 }

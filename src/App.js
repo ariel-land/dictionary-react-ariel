@@ -10,7 +10,7 @@ function App() {
           <Dictionary defaultKeyword="sakura" />
         </main>
         <br />
-        <br />
+
         <footer className="App-footer">
           <a
             href="https://github.com/ariel-land/dictionary-react-ariel"
@@ -20,6 +20,7 @@ function App() {
           </a>{" "}
           by Ariel Lee{" "}
         </footer>
+        <br />
       </div>
     </div>
   );
